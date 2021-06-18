@@ -8,7 +8,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/xbsoftware/wfs"
+	"github.com/kewcapital/wfs"
 )
 
 type LocalDrive struct {

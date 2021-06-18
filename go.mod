@@ -1,5 +1,5 @@
-module github.com/xbsoftware/wfs-local
+module github.com/kewcapital/wfs-local
 
 go 1.13
 
-require github.com/xbsoftware/wfs v0.0.0-20200225154622-fe508a916a08
+require github.com/kewcapital/wfs v0.0.0-20210618100526-d791c5eacb44
